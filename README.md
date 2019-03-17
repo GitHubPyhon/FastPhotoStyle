@@ -10,6 +10,35 @@ Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses
 
 <img src="https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/teaser.png" width="800" title="Teaser results"> 
 
+### Installation
+
+Python packages:
+
+cupy==5.3.0
+
+fastrlock==0.4
+
+numpy==1.16.2
+
+Pillow==5.4.1
+
+pynvrtc==9.2
+
+scipy==1.2.1
+
+six==1.12.0
+
+torch==0.4.0
+
+torchvision==0.2.2.post3
+
+System package:
+
+nvidia-cuda-toolkit
+
+### Additional files :-) Once error occurred copy math_functions.h into needed directory 
+    /usr/include/math_functions.h
+    /usr/include/crt/math_functions.h
 
 ### What's new
  
